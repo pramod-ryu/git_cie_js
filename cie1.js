@@ -10,6 +10,7 @@ function toggle(i)
             {
                 case "co1":name="Pramod";break;
                 case "co2":name="Anvitha";break;
+		case "22056":name="Vignesh";break;
                 default:name="";
             }
         if (name_element_visibility==="hidden")
@@ -25,3 +26,4 @@ function toggle(i)
                 document.getElementById(name_element_id).innerHTML="";
             }
     }
+
