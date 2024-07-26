@@ -1,3 +1,4 @@
+
 function toggle(i)
     {
         var cell_id=i.replace(/but_/g,"");
@@ -10,6 +11,12 @@ function toggle(i)
             {
                 case "co1":name="Pramod";break;
                 case "co2":name="Anvitha";break;
+
+                case "22013":name="Gowtham";break;
+
+                case "22019":name="nishanth";break;
+               
+                case "22033":name="Pooja";break;
                 default:name="";
             }
         if (name_element_visibility==="hidden")
