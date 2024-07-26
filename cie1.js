@@ -10,6 +10,9 @@ function toggle(i)
             {
                 case "co1":name="Pramod";break;
                 case "co2":name="Anvitha";break;
+
+                case "22048":name="Supreetha";break;
+
                 case "22054":name="Varshitha";break;
                 case "22042": name="Shashwath";break;
                 case "22017":name="Jayaprasad";break;
@@ -22,6 +25,7 @@ function toggle(i)
                 case "22019":name="nishanth";break;
                 case "22020":name="Karthik";break;
                 case "22020":name="Karthik";break;
+
                 default:name="";
             }
         if (name_element_visibility==="hidden")
