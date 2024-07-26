@@ -17,6 +17,8 @@ function toggle(i)
                 case "22005":name="Amshik";break; 
                 case "22013":name="Gowtham";break;
                 case "22019":name="nishanth";break;
+                 case "22020":name="Karthik";break;
+
                 default:name="";
             }
         if (name_element_visibility==="hidden")
