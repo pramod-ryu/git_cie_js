@@ -11,6 +11,7 @@ function toggle(i)
                 case "co1":name="Pramod";break;
                 case "22028":name="Nandini";break;
                 case "co2":name="Anvitha";break;
+                case "22056":name="Vignesh";break;
                 case "22034":name="Prajwal.B.J";break;
                 case "22018":name="Manvith";break;
                 case "22048":name="Supreetha";break;
@@ -40,3 +41,4 @@ function toggle(i)
                 document.getElementById(name_element_id).innerHTML="";
             }
     }
+
