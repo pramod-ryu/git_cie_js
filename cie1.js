@@ -9,6 +9,7 @@ function toggle(i)
         switch (cell_id)
             {
                 case "co1":name="Pramod";break;
+                case "391cs22028":name="Nandini";break;
                 case "co2":name="Anvitha";break;
                 default:name="";
             }
