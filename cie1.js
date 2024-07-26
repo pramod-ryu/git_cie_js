@@ -10,6 +10,7 @@ function toggle(i)
             {
                 case "co1":name="Pramod";break;
                 case "co2":name="Anvitha";break;
+                case "22042": name="Shashwath";break;
                 case "22017":name="Jayaprasad";break;
                 case "22022":name="Kavyashree";break;
                 case "22060":name="virajith";break;
